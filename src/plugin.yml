@@ -1,0 +1,8 @@
+name: GoreaEnchant
+author: GoreaCraft
+main: me.goreacraft.enchant.Enchant
+version: 1.0
+commands:
+  goreaenchant:
+      aliasses: genchant
+      description: adds enchants
